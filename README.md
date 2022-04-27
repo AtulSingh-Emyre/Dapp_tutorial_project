@@ -9,6 +9,7 @@ The project is visualized as a Twitter clone which is built as a Dapp. The user 
 ## Tech Stack used
 
 * ReactJS
+* Node
 * Web3
 * Truffle
 * Solidity
